@@ -1,0 +1,2 @@
+# QRCodeSearcher
+QRcode作成
